@@ -2,7 +2,10 @@
 This repository contains artifacts of the paper "AlphaTrans: A Neuro-Symbolic Compositional Approach for Repository-Level Code Translation and Validation".
 
 ## Generated Artifacts
-All artifacts generated during experiments are available online on Zenodo. The link to the Zenodo repository is [here](https://zenodo.org/records/13826583).
+All artifacts generated during experiments are available online on Zenodo. The link to the Zenodo repository is [here](https://zenodo.org/records/13826661).
+
+## Manually Verified Translations
+All manually verified translations from 4 projects are available online on Zenodo. The link to the Zenodo repository is [here](https://zenodo.org/records/13826661).
 
 ## Pre-requisites
 The `setup.sh` files contains multiple scripts to setup the proper conda environment, install all dependencies, download, build, and create project databases for CodeQL, and install GraalVM. Please execute the following in order to successfully setup AlphaTrans requirements.
